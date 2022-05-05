@@ -25,6 +25,14 @@
             android:layout_width="127dp"
             android:layout_height="67dp"
             android:text="Ajouter Projet" />
+
+        <Button
+            android:id="@+id/task_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:text="Done" />
     </LinearLayout>
 
     <ListView
